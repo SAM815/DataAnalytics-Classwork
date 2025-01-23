@@ -26,7 +26,7 @@ To run the notebooks, you need to have Python installed along with the required 
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-
+```
 # Usage and Assignments Overview
 
 ## Usage
@@ -106,3 +106,4 @@ This notebook covers reading and writing data using `pandas`.
 - **Writing CSV Files:** Using `to_csv` function.
 - **Reading Excel Files:** Using `read_excel` function.
 - **Reading CSV from URL:** Using `read_csv` with a URL.
+
